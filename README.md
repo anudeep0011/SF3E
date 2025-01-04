@@ -36,7 +36,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/sf3e-alert.git
+git clone [https://github.com/your-username/sf3e-alert.git](https://github.com/anudeep0011/SF3E)
 
 Navigate to the project directory:
 
